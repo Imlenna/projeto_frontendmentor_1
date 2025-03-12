@@ -1,9 +1,58 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - QR code component solution
 
-![Design preview for the QR code component coding challenge](./preview.jpg)
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
-## The challenge
+## Table of contents
 
-Your challenge is to build out this QR code component and get it looking as close to the design as possible.
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+
+## Overview
+
+### Screenshot
+
+![challenge_img](image.png)
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://vercel.com/imlennas-projects/projeto-frontendmentor-1)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+### What I learned
+
+Essa parte de atribuição do <p> em especifico foi um pouco chatinha pois não queria que passasse a ter uma barra de rolangem então tive que apelar um pouco pro google pois tinha esquecido
+da propriedade position: absolute; e do transform/translate 
+
+.attribution {
+  font-family: "Outfit", sans-serif;
+  font-size: 11px;
+  text-align: center;
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 11px;
+  text-align: center;
+
+## Author
+
+- Frontend Mentor - [@Imlenna](https://www.frontendmentor.io/profile/Imlenna)
+- Twitter - [@milenatrindadde](https://www.twitter.com/milenatrindadde)
+
+
+## Acknowledgments
+
+Caso façam esse projeto tentem fazer exercicios previos de flexbox/grid ajuda bastante em algumas coisas basicas.
