@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
+
+.attribution {
+  font-family: "Outfit", sans-serif;
+  font-size: 11px;
+  text-align: center;
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d5e1ef;
+}
+
+#qr-code {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#quadrado {
+  width: 320px;
+  height: 499px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #feffff;
+  border-radius: 20px;
+  background-color: #feffff;
+}
+#caixa {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  padding-top: 40px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 36px;
+}
+
+#imagem {
+  border-radius: 10px;
+  width: 288px;
+  height: 288px;
+}
+
+h2,
+h4 {
+  font-family: "Outfit", sans-serif;
+  text-align: center;
+}
+#title {
+  align-items: center;
+  font-weight: 700;
+  font-style: normal;
+  color: hsl(218, 44%, 22%);
+}
+
+#subtitle {
+  padding-top: -4px;
+  font-weight: 400;
+  color: hsl(216, 15%, 48%);
+}
