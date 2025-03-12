@@ -33,8 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Essa parte de atribuição do <p> em especifico foi um pouco chatinha pois não queria que passasse a ter uma barra de rolangem então tive que apelar um pouco pro google pois tinha esquecido
-da propriedade position: absolute; e do transform/translate 
+Essa parte de atribuição do rodapé em especifico foi um pouco chatinha pois não queria que passasse a ter uma barra de rolangem então tive que apelar um pouco pro google pois tinha esquecidoda propriedade position: absolute; e do transform/translate 
 
 .attribution {
   font-family: "Outfit", sans-serif;
